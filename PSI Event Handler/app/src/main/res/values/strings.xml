@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Aplikasi Kelas Dimas</string>
+
+    <!--  Header  -->
+    <string name="nama">Hi Dimas!</string>
+    <string name="secondary_greeting">Are you ready for today\'s class ?</string>
+    <string name="upcoming_activities">Upcoming Activities</string>
+    <string name="view_all">View All</string>
+    <string name="upcoming_assignment">Upcoming Assignment</string>
+    <string name="read_more">Read More</string>
+    <string name="join_class_button">Join Class</string>
+    <string name="joined_class_button">Joined</string>
+
+    <!--  MainCards  -->
+    <string name="members_maincard">99+ Members Joined</string>
+    <string name="time_maincard">In 10:00 Minutes</string>
+
+    <!--  Assignment 1  -->
+    <string name="assignment_1">Assignment 1</string>
+    <string name="assignment_2">Assignment 2</string>
+    <string name="assignment_3">Assignment 3</string>
+    <string name="assignment_4">Assignment 4</string>
+    <string name="assignment_5">Assignment 5</string>
+
+    <!--  Lecturer  -->
+    <string name="lecturer1">By Mr. Albert Einstein</string>
+    <string name="lecturer2">By Mr. Armstrong, J. Scott</string>
+    <string name="lecturer3">By Mr. Ayers, Bill</string>
+    <string name="lecturer4">By Mr. Albright, Madeleine</string>
+    <string name="lecturer5">By Mr. Tobias Wolff</string>
+
+    <string-array name="lecturer">
+        <item>By Mr. Armstrong, J. Scott</item>
+        <item>By Mr. Albert Einstein</item>
+        <item>By Mr. Ayers, Bill</item>
+        <item>By Mr. Albright, Madeleine</item>
+        <item>By Mr. Tobias Wolff</item>
+    </string-array>
+
+    <!--  Course  -->
+    <string name="course1">Physics</string>
+    <string name="course2">Math</string>
+    <string name="course3">Chemistry</string>
+    <string name="course4">English</string>
+    <string name="course5">German</string>
+
+    <string-array name="course">
+        <item>Physics</item>
+        <item>Math</item>
+        <item>Chemistry</item>
+        <item>English</item>
+        <item>German</item>
+    </string-array>
+
+    <!--  Activities  -->
+    <string name="activities1">Discovery of Light Spectrum</string>
+    <string name="activities2">The Collatz conjecture</string>
+    <string name="activities3">High-temperature Superconductors</string>
+    <string name="activities4">100+ Hardest Words</string>
+    <string name="activities5">Going Native</string>
+
+    <string-array name="activities">
+        <item>Discovery of Light Spectrum</item>
+        <item>The Collatz conjecture</item>
+        <item>High-temperature Superconductors</item>
+        <item>100+ Hardest Words</item>
+        <item>Going Native</item>
+    </string-array>
+
+    <!--  Times  -->
+    <string name="times1">18 Sep | 2.00 PM</string>
+    <string name="times2">19 Oct | 3.00 PM</string>
+    <string name="times3">20 Nov | 4.00 PM</string>
+    <string name="times4">11 Dec | 5.00 PM</string>
+    <string name="times5">12 Jan | 6.00 PM</string>
+
+    <string-array name="times">
+        <item>18 Sep | 2.00 PM</item>
+        <item>19 Oct | 3.00 PM</item>
+        <item>20 Nov | 4.00 PM</item>
+        <item>11 Dec | 5.00 PM</item>
+        <item>12 Jan | 6.00 PM</item>
+    </string-array>
+
+    <!--  Description  -->
+    <string name="assignment_description1">Buat antarmuka Aplikasi seperti di gambar …</string>
+    <string name="assignment_description2">Buat antarmuka Aplikasi seperti di gambar …</string>
+    <string name="assignment_description3">Buat antarmuka Aplikasi seperti di gambar …</string>
+    <string name="assignment_description4">Buat antarmuka Aplikasi seperti di gambar …</string>
+    <string name="assignment_description5">Buat antarmuka Aplikasi seperti di gambar …</string>
+
+    <!--  Time Remaining  -->
+    <string name="time_remaining1">1 Day Left</string>
+    <string name="time_remaining2">2 Days Left</string>
+    <string name="time_remaining3">2 Weeks Left</string>
+    <string name="time_remaining4">2 Months Left</string>
+    <string name="time_remaining5">1 Year Left</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
